@@ -1,12 +1,12 @@
-name = "XMin"
+name = "Techblog Theme"
 license = "MIT"
-licenselink = "https://github.com/yihui/hugo-xmin/blob/master/LICENSE.md"
-description = "eXtremely Minimal Hugo theme: about 150 lines of code in total, including HTML and CSS"
-homepage = "https://xmin.yihui.org"
+licenselink = "https://github.com/parthw/hugo-techblog-theme/blob/master/LICENSE"
+description = "Minimal Techblog Theme for Engineers"
+homepage = "https://parthw.github.io"
 tags = ["minimal", "blog", "personal", "clean", "simple", "starter", "minimalist"]
 features = ["blog"]
-min_version = "0.18"
+min_version = "0.1"
 
 [author]
-  name = "Yihui Xie"
-  homepage = "https://yihui.org"
+  name = "Parth Wadhwa"
+  homepage = "https://parthw.github.io"
