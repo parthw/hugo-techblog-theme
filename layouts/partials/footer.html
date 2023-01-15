@@ -5,9 +5,9 @@
 <script>
 hljs.initHighlightingOnLoad();
 </script>
+<hr/>
 <div>
     {{ with .Site.Params.footer }}
-    <hr/>
     {{ replace . "{Year}" now.Year | markdownify}}
     {{ end }}
 </div>
