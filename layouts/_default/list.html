@@ -1,8 +1,7 @@
 {{ partial "header.html" . }}
-<h1>List</h1>
-
-<h1>{{ .Title | markdownify }}</h1>
-
+<div class='title'>
+{{ .Title | markdownify }}
+</div>
 {{ .Content }}
 
 <ul>
